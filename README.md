@@ -4,11 +4,11 @@
 - MSc. (Business Intelligence & Analytics)
 
 ### Skills
-- Programming Language: Python
-- Databases: PostgreSQL, SQL
-- Data Science & Machine Learning Toolkit: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Playwright, NLTK, SciPy, Django, Streamlit
-- BI Tools: Microsoft Power BI, Tableau
-- Spreadsheet: Microsoft Excel, Google spreadsheet
+- **Programming Language:** Python
+- **Databases:** PostgreSQL, SQL
+- **Data Science & Machine Learning Toolkit:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Playwright, NLTK, SciPy, Django, Streamlit
+- **BI Tools:** Microsoft Power BI, Tableau
+- **Spreadsheet:** Microsoft Excel, Google spreadsheet
 
 ### Work Experience
 #### Research Assistant
