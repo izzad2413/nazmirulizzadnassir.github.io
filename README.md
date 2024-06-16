@@ -4,11 +4,11 @@
 - MSc. (Business Intelligence & Analytics)
 
 ### Skills
-- Programming Language:
-- Databases:
-- Data Science & Machine Learning Toolkit
-- BI Tools:
-- Spreadsheet: 
+- Programming Language: Python
+- Databases: PostgreSQL, SQL
+- Data Science & Machine Learning Toolkit: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Playwright, NLTK, SciPy, Django, Streamlit
+- BI Tools: Microsoft Power BI, Tableau
+- Spreadsheet: Microsoft Excel, Google spreadsheet
 
 ### Work Experience
 #### Research Assistant
@@ -22,13 +22,12 @@
 
 ### Personal Project
 #### Predictive Modeling of Sustainable Tourism Practices Using Online Travel Agent (OTA) Platform: A Malaysian Case Study
--
--
+- Classified sustainability labels of tourist accommodations using web-scraped OTA data
+- MLP was identified as the best model, demonstrating that OTA data significantly supplements sustainability classification
 
 #### Airfare Prediction Model Deployment
--
--
+- Deployed a logistic regression model to predict air travel fares using the Django framework
+- Developed an intuitive user interface for users to easily predict their travel fares
 
-#### Text Summarization
--
--
+### List of Proceeding
+- Nassir, N. I., Abdul Rahim, F., & Raja Mazlan, R. M. (2024). Predictive Modeling of Sustainable Tourism Practices Using Online Travel Agent Platform: A Malaysia Case Study. (Accepted for presentation at 2nd E-International Conference on Green & Safe Cities).
