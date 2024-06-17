@@ -2,7 +2,7 @@
 
 
 ## Education
-- MSc (Business Intelligence & Analytics) | Universiti Teknologi Malaysia (*Oct 2022 - Present*)
+- MSc (Business Intelligence & Analytics), Universiti Teknologi Malaysia (*Oct 2022 - Present*)
 
 
 ## Skills
