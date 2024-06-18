@@ -2,7 +2,7 @@
 
 
 ## Education
-- MSc (Business Intelligence & Analytics), Universiti Teknologi Malaysia (*Oct 2022 - Present*)
+- MSc., Business Intelligence & Analytics | Universiti Teknologi Malaysia at Kuala  Lumpur (_Oct 2022 - Present_)
 
 
 ## Skills
@@ -16,7 +16,7 @@
 ## Work Experience
 **Research Assistant | International Islamic University Malaysia (*Feb 2024 - Present*)**
 - Efficiently utilizing Python and the playwright library, I identified 243 budget hotels out of 738 listed by MOTAC within a swift 3-hour timeframe, enhancing data acquisition for research development.
-- I generated actionable insights from qualitative data collected through interviews by leveraging Python and the NLTK library for text analysis, resulting in the identification of key themes and most frequently highlighted words.
+- Generate actionable insights from qualitative data collected through interviews by leveraging Python and the NLTK library for text analysis, resulting in the identification of key themes and most frequently highlighted words.
 
 
 **IT & Media Networking | International Islamic University Malaysia (*Apr 2023 - Feb 2024*)**
