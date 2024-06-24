@@ -1,6 +1,6 @@
 # My Online Portfolio
 
-[![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nazmirul-izzad-nassir?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## Education
 
@@ -45,8 +45,11 @@
 
 ## Certifications
 
-- [![Static Badge](https://img.shields.io/badge/machine_learning-%230056D2?style=for-the-badge&logo=coursera)](https://www.coursera.org/account/accomplishments/specialization/3E48NV4Y52ST)
-- [![Static Badge](https://img.shields.io/badge/google_data_analytics-%230056D2?style=for-the-badge&logo=coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/NN7DP5XQ4E4Q)
-- [![Static Badge](https://img.shields.io/badge/data_visualization_with_tableau-%230056D2?style=for-the-badge&logo=coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/NVFEGRU97D3X)
+- [![Static Badge](https://img.shields.io/badge/machine_learning-%230056D2?style=for-the-badge&logo=coursera&logoColor=%230056D2&label=coursera&labelColor=black)](https://www.coursera.org/account/accomplishments/specialization/certificate/3E48NV4Y52ST) [![Static Badge](https://img.shields.io/badge/Google_Data_Analytics-%230056D2?style=for-the-badge&logo=coursera&logoColor=%230056D2&label=coursera&labelColor=black)](https://www.coursera.org/account/accomplishments/specialization/certificate/NN7DP5XQ4E4Q)
+- [![Static Badge](https://img.shields.io/badge/Statistics_for_Data_Science-%23A435F0?style=for-the-badge&logo=udemy&logoColor=%23A435F0&label=Udemy&labelColor=black)](https://www.udemy.com/certificate/UC-371e4601-abf3-4474-8f12-8967f12504a3/) [![Static Badge](https://img.shields.io/badge/SQL_bootcamp-%23A435F0?style=for-the-badge&logo=udemy&logoColor=%23A435F0&label=Udemy&labelColor=black)](https://www.udemy.com/certificate/UC-10e45baf-f655-4bf8-b0e1-44f895197c64/)
+- [![Static Badge](https://img.shields.io/badge/Data_Analyst_with_Python-%2303EF62?style=for-the-badge&logo=datacamp&logoColor=%2303EF62&label=datacamp&labelColor=black)](https://www.datacamp.com/statement-of-accomplishment/track/3537f474cbfb11254fa2a3a5a484d11300bebe51?raw=1)
+
+
+
 
 
