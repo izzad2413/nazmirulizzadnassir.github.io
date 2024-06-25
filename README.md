@@ -9,12 +9,18 @@
 
 ## Skills
 
-- **Programming Language:** Python
-- **Databases:** PostgreSQL, SQL
-- **Data Science & Machine Learning Toolkit:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Playwright, NLTK, SciPy, Django, Streamlit
-- **BI Tools:** Microsoft Power BI, Tableau
-- **Spreadsheet:** Microsoft Excel, Google spreadsheet
-
+| Skill Type | Skills |
+| ---------- | ------ |
+| **Programming Language** | Python |
+| **Databases** | PostgreSQL, SQL |
+| **Data Analysis** | Pandas, NumPy, Matplotlib, Seaborn |
+| **Machine Learning** | Scikit-learn, TensorFlow |
+| **Statistics** | SciPy
+| **Natural Language Processing** | NLTK |
+| **Deployment** | Django, Streamlit |
+| **Web Scraping** | Playwright |
+| **BI Tools** | Microsoft Power BI, Tableau |
+| **Spreadsheet** | Microsoft Excel, Google Spreadsheet |
 
 ## Work Experience
 
