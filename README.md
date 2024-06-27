@@ -4,12 +4,13 @@
 
 ## Education
 
-- MSc., Business Intelligence & Analytics | Universiti Teknologi Malaysia at Kuala  Lumpur (_Oct 2022 - Present_)
-
+- MSc. Business Intelligence & Analytics | Universiti Teknologi Malaysia (_Oct 2022 - Present_)
+- Bachelor of Tourism Planning & Hospitality Management | International Islamic University Malaysia (_July 2019_)
+- Diploma Accountancy | Politeknik Ungku Omar (_June 2015)_)
 
 ## Skills
 
-| Skill Type | Skills |
+| Skill Types | Abilities |
 | ---------- | ------ |
 | Programming Language | Python |
 | Databases | PostgreSQL, SQL |
@@ -28,12 +29,27 @@
 - Efficiently utilizing Python and the playwright library, I identified 243 budget hotels out of 738 listed by MOTAC within a swift 3-hour timeframe, enhancing data acquisition for research development.
 - Generate actionable insights from qualitative data collected through interviews by leveraging Python and the NLTK library for text analysis, resulting in the identification of key themes and most frequently highlighted words.
 
-
 **IT & Media Networking | International Islamic University Malaysia (*Apr 2023 - Feb 2024*)**
 - Created and maintained an interactive dashboard for monthly conference updates, serving as a one-stop reference point for tracking key metrics and progress.
 - Leveraged automation software to expedite various tasks, achieving a 33% reduction in steps, including sending updates via email to participants, generating conference e-certificates, and creating letters.
 - Introduced a streamlined process for article rubric evaluation using Google Forms and Sheets, resulting in a 60% reduction in manual work.
 
+**Data Specialist | BelleBiz Homebake (*Jan 2022 - Apr 2023*)**
+- Successfully created up to 15 databases using Google spreadsheet to store various and manageable amounts of data.
+- Implemented Google spreadsheet visualization for quick business insights, identifying key components of customer segments, products, and performance.
+-  Implemented automated costing using Google Spreadsheet functions resulting in faster and more accurate calculations.
+
+**Branch Control Unit | Mayflower Car Rental Sdn Bhd (*Jul 2020 - Jan 2022*)**
+- Digitized vehicle transaction data collection using Microsoft Forms and Excel Online, resulting in enhanced data verification and validation, and reducing daily processing time by over 24 hours.
+- Employed Microsoft Power Query and Power BI for data processing and visualization to address the issue of no vehicle utilization tracking, revealing an average utilization rate of approximately 80%.
+- Analyzed vendor data using Microsoft Power BI and Excel, identifying a lack of proper evaluation and revealing that discounts received from vendors were limited to 5%.
+- Modernized SOPs by conducting comprehensive evaluations across primary departments, resulting in up to 60% overall update from the outdated 2015 version.
+
+**Product Development | Mayflower Holidays Sdn Bhd (*Jun 2019 - Jul 2020*)**
+- Utilized TripAdvisor and Expedia to sell products online, resolving the issue of no products being listed on OTAs, resulting in the successful deployment of over 5 attractions.
+- Boosted revenue by 2% through the addition of entrance tickets, chauffeur services, and airport transfers to the company website, resolving the problem of no new product deployments.
+- Identified a lack of attractive products for local customers and attended product briefings on new places, resulting in the creation of up to 10 domestic packages.
+- Boosted domestic customer inquiries by 3% by distributing an email to internal company subsidiaries, addressing the issue of low inquiry.
 
 ## Personal Projects
 
@@ -47,9 +63,9 @@
 
 ## Publication
 
-- Nassir, N. I., Abdul Rahim, F., & Raja Mazlan, R. M. (2024). Predictive Modeling of Sustainable Tourism Practices Using Online Travel Agent Platform: A Malaysia Case Study. (Accepted for presentation at 2nd E-International Conference on Green & Safe Cities).
+- Nassir, N. I., Abdul Rahim, F., & Raja Mazlan, R. M. (2024). Predictive modeling of sustainable tourism practices using online travel agent platform: A Malaysia case study. (Accepted for presentation at 2nd E-International Conference on Green & Safe Cities).
 
-## Certifications
+## Personal Development
 
 | Platforms | Certificates |
 | --------- | ------------ |
