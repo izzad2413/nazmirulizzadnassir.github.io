@@ -4,9 +4,9 @@
 
 ## Education
 
-- MSc. Business Intelligence & Analytics | Universiti Teknologi Malaysia (_Oct 2022 - Present_)
-- Bachelor of Tourism Planning & Hospitality Management | International Islamic University Malaysia (_July 2019_)
-- Diploma Accountancy | Politeknik Ungku Omar (_June 2015_)
+- MSc. Business Intelligence & Analytics, Universiti Teknologi Malaysia (_Oct 2022 - Present_)
+- Bachelor of Tourism Planning & Hospitality Management (Hons), International Islamic University Malaysia (_July 2019_)
+- Diploma Accountancy, Politeknik Ungku Omar (_June 2015_)
 
 ## Skills
 
