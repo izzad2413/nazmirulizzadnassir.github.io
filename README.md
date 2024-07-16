@@ -55,7 +55,7 @@
 
 **[Predicting Sustainable Tourism in Malaysia's Accommodation Sector: A Machine Learning Approach](https://github.com/izzad2413/sustainable_ota)**
 
-![Malaysia Sustainable Accommodation OTA](img/Malaysia-Sustainable-Accommodation-as-of-October-2023.png)
+![Malaysia Sustainable Accommodation OTA](img/Malaysia Sustainable Accommodation as of October 2023.png)
 
 - Classified sustainability labels of tourist accommodations using web-scraped OTA data
 - MLP was identified as the best model, demonstrating that OTA data significantly supplements sustainability classification
