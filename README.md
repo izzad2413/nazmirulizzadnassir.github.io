@@ -2,8 +2,10 @@
 
 [![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin)]
 
+## Contact 
 :iphone: 017 320 4080
 :email: nazmirulizzadnassir@gmail
+:malaysia:
 
 ## Education
 
