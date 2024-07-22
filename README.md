@@ -1,6 +1,6 @@
 # My Online Portfolio
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin) :iphone: 017 320 4080 :email: nazmirulizzadnassir@gmail
+[![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin)] :iphone: 017 320 4080 :email: nazmirulizzadnassir@gmail
 
 ## Education
 
