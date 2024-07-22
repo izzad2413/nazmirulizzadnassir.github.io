@@ -2,6 +2,9 @@
 
 [![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nazmirul-izzad-nassir?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) ![Static Badge](https://img.shields.io/badge/nazmirulizzadnassir%40gmail.com-%23EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=%23EA4335) ![Static Badge](https://img.shields.io/badge/017_326_4080-%23EA4335?style=for-the-badge&label=Phone)
 
+:iPhone: 017 320 4080
+:email: nazmirulizzadnassir@gmail
+
 ## Education
 
 - MSc. Business Intelligence & Analytics, Universiti Teknologi Malaysia (_Oct 2022 - Present_)
@@ -55,7 +58,7 @@
 
 **[Predicting Sustainable Tourism in Malaysia's Accommodation Sector: A Machine Learning Approach](https://github.com/izzad2413/sustainable_ota)**
 
-![Malaysia Sustainable Accommodation as of October 2023](https://github.com/user-attachments/assets/8d2a642e-cff4-4d11-a196-e886959dc37e)
+![malaysia_sustainable_ota-modified](https://github.com/user-attachments/assets/ef77fca7-703c-47fe-8536-8fed7deef53c)
 
 - Classified sustainability labels of tourist accommodations using web-scraped OTA data
 - MLP was identified as the best model, demonstrating that OTA data significantly supplements sustainability classification
