@@ -1,8 +1,8 @@
 # My Online Portfolio
 
-[![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nazmirul-izzad-nassir?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) ![Static Badge](https://img.shields.io/badge/nazmirulizzadnassir%40gmail.com-%23EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=%23EA4335) ![Static Badge](https://img.shields.io/badge/017_326_4080-%23EA4335?style=for-the-badge&label=Phone)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin)]
 
-:iPhone: 017 320 4080
+:iphone: 017 320 4080
 :email: nazmirulizzadnassir@gmail
 
 ## Education
