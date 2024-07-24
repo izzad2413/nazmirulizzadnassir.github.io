@@ -63,7 +63,7 @@
 
 **[Airfare Prediction Model Deployment](https://github.com/izzad2413/django_project)**
 
-![aircraft-8867083_1280-modified](https://github.com/user-attachments/assets/92a9adb7-c310-43f7-89ef-21ae7347336b)
+![airfare-prediction](https://github.com/user-attachments/assets/abc9a8ce-d68a-40ef-9180-3f1be92be74d)
 
 - Deployed a logistic regression model to predict air travel fares using the Django framework
 - Developed an intuitive user interface for users to easily predict their travel fares
