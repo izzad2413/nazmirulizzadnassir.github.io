@@ -58,15 +58,15 @@
 
 ![malaysia_sustainable_ota-modified_v2](https://github.com/user-attachments/assets/e5c83fec-b504-4f09-8627-f9fb4c100cab)
 
-- Classified sustainability labels of tourist accommodations using web-scraped OTA data
-- MLP was identified as the best model, demonstrating that OTA data significantly supplements sustainability classification
+- Classified sustainability labels of tourist accommodations using web-scraped OTA data.
+- MLP was identified as the best model, demonstrating that OTA data significantly supplements sustainability classification.
 
 **[Airfare Prediction Model Deployment](https://github.com/izzad2413/django_project)**
 
 ![airfare-prediction](https://github.com/user-attachments/assets/abc9a8ce-d68a-40ef-9180-3f1be92be74d)
 
-- Deployed a logistic regression model to predict air travel fares using the Django framework
-- Developed an intuitive user interface for users to easily predict their travel fares
+- A TensorFlow-based model was deployed to predict air travel fares using the Django framework.
+- Developed an intuitive user interface to predict travel fares easily.
 
 ## Publication
 
