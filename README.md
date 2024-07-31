@@ -9,7 +9,7 @@
 - Bachelor of Tourism Planning & Hospitality Management (Hons), International Islamic University Malaysia (_July 2019_)
 - Diploma Accountancy, Politeknik Ungku Omar (_June 2015_)
 
-## Skills
+## Technical Skills
 
 | Types | Abilities |
 | ---------- | ------ |
@@ -58,15 +58,17 @@
 
 ![malaysia_sustainable_ota-modified_v2](https://github.com/user-attachments/assets/e5c83fec-b504-4f09-8627-f9fb4c100cab)
 
-- Classified sustainability labels of tourist accommodations using web-scraped OTA data.
-- MLP was identified as the best model, demonstrating that OTA data significantly supplements sustainability classification.
+- Utilized machine learning (SVM, Decision Tree, Random Forest, KNN, MLP) to classify sustainable accommodations in Malaysia.
+- Scraped, preprocessed, and feature-selected OTA data from 17,866 samples, optimizing model performance.
+- Created an interactive Streamlit app for sustainability predictions, supplemented with Tableau visualizations.
 
 **[Airfare Prediction Model Deployment](https://github.com/izzad2413/django_project)**
 
 ![airfare-prediction](https://github.com/user-attachments/assets/abc9a8ce-d68a-40ef-9180-3f1be92be74d)
 
-- A TensorFlow-based model was deployed to predict air travel fares using the Django framework.
-- Developed an intuitive user interface to predict travel fares easily.
+- Utilized logistic regression and deep learning to predict flight prices based on a comprehensive dataset from Kaggle.
+- Conducted thorough EDA and preprocessing, transforming categorical data for accurate modeling.
+- Developed and deployed a seamless flight price prediction application using the Django framework.
 
 ## Publication
 
