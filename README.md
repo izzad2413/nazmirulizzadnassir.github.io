@@ -14,7 +14,7 @@
 | Types | Abilities |
 | ---------- | ------ |
 | Programming Language | Python |
-| Databases | PostgreSQL, SQL |
+| Databases | PostgreSQL, SQL, MongoDB |
 | Data Analysis | Pandas, NumPy, Matplotlib, Seaborn |
 | Machine Learning | Scikit-learn, TensorFlow |
 | Statistics | SciPy
