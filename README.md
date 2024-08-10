@@ -26,7 +26,7 @@
 
 ## Work Experience
 
-**Research Assistant | International Islamic University Malaysia (*Feb 2024 - Present*)**
+**Research Assistant | International Islamic University Malaysia (*Feb - July 2024*)**
 - Efficiently utilizing Python and the playwright library, I identified 243 budget hotels out of 738 listed by MOTAC within a swift 3-hour timeframe, enhancing data acquisition for research development.
 - Generate actionable insights from qualitative data collected through interviews by leveraging Python and the NLTK library for text analysis, resulting in the identification of key themes and most frequently highlighted words.
 
