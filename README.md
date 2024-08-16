@@ -70,7 +70,7 @@
 - Conducted thorough EDA and preprocessing, transforming categorical data for accurate modeling.
 - Developed and deployed a seamless flight price prediction application using the Django framework.
 
-**[Visitor Experiences at Sepilok Orangutan Sanctuary: Sentiment Analysis (WORK IN PROGRESS)]([https://github.com/izzad2413/django_project](https://github.com/izzad2413/nlp-sentiment-analysis-sepilok))**
+**[Visitor Experiences at Sepilok Orangutan Sanctuary: Sentiment Analysis (WORK IN PROGRESS)](https://github.com/izzad2413/nlp-sentiment-analysis-sepilok)**
 
   ![Project Design Thumbnail-modified](https://github.com/user-attachments/assets/d212530f-8549-4570-9a8a-b30e7a00749b)
 
