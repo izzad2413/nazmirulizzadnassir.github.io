@@ -70,6 +70,12 @@
 - Conducted thorough EDA and preprocessing, transforming categorical data for accurate modeling.
 - Developed and deployed a seamless flight price prediction application using the Django framework.
 
+  **[Optimizing Text Summarization with Hugging Face's Pegasus]([https://github.com/izzad2413/django_project](https://github.com/izzad2413/Text-Summarizer))**
+
+  -
+  -
+  -
+
  **[Langkawi Visitor Feedback Insights (IN PROGRESS)](https://github.com/izzad2413/nlp_sentiment_lgk)**
 
 ![nlp-sentiment-lgk-thumbnail](https://github.com/user-attachments/assets/34f7a5ab-9499-4454-8b18-03bd5ddbba5f)
