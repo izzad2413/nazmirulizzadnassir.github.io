@@ -1,10 +1,13 @@
-# My Online Portfolio
+# Greetings
 
 ## About Me
 
+I am a Data and AI enthusiast with a passion for turning data into actionable insights. With 5 years of industry experience spanning product development, customer experience, branch control, business intelligence, IT & media networking, and research & development, I have honed my skills in analyzing data and solving real-world problems. My technical expertise includes Python, PostgreSQL, MySQL, MongoDB, Pandas, NumPy, TensorFlow, Playwright, and Power BI, among other tools. I hold an MSc. in Business Intelligence & Analytics and am driven by a deep curiosity for data-driven innovation and a commitment to continuous learning and growth. My experience as a researcher has shaped my analytical mindset, allowing me to approach challenges with creativity and precision. I am passionate about leveraging data to drive innovation and create meaningful impact. I am always open to connecting with like-minded professionals or exploring new opportunities that align with my mission to contribute to the greater good.
+
 ## Lets Connect
-[![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=flat-square&logo=linkedin&labelColor=%230A66C2)](https://www.linkedin.com/in/nazmirul-izzad-nassir?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) ![Static Badge](https://img.shields.io/badge/Phone-017%20326%204080-%23EA4335?style=flat-square&logoColor=white)
- ![Static Badge](https://img.shields.io/badge/nazmirulizzadnassir%40gmail.com-%23EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=%23EA4335) 
+[![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=flat-square&logo=linkedin&labelColor=%230A66C2)](https://www.linkedin.com/in/nazmirul-izzad-nassir?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+![Static Badge](https://img.shields.io/badge/nazmirulizzadnassir%40gmail.com-black?style=flat-square)
+![Static Badge](https://img.shields.io/badge/017%20326%204080-black?style=flat-square)
 
 ## Technical Skills
 
@@ -21,7 +24,7 @@
 | BI Tools | Microsoft Power BI, Tableau |
 | Spreadsheet | Microsoft Excel, Google Spreadsheet |
 
-[![Static Badge](https://img.shields.io/badge/view%20resume-black?style=for-the-badge)](https://drive.google.com/file/d/1SNEvcM1eavZhzST1nQtJU1Y7GmTnfUvv/view?usp=drive_link)
+[![Static Badge](https://img.shields.io/badge/view%20my%20resume-black?style=for-the-badge)](https://drive.google.com/file/d/1SNEvcM1eavZhzST1nQtJU1Y7GmTnfUvv/view?usp=drive_link)
 
 ## Personal Projects
 
