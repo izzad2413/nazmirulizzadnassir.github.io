@@ -23,7 +23,7 @@ I’m a Data and AI enthusiast with 5 years of experience across product develop
 | BI Tools | Microsoft Power BI, Tableau |
 | Spreadsheet | Microsoft Excel, Google Spreadsheet |
 
-[![Static Badge](https://img.shields.io/badge/view%20my%20resume-black?style=for-the-badge)]([https://drive.google.com/file/d/1SNEvcM1eavZhzST1nQtJU1Y7GmTnfUvv/view?usp=drive_link](https://docs.google.com/document/d/e/2PACX-1vQKxDxt4OswOLflkwM7AKJTppeeXKGBgJrcGkiBPCH0iiqsymHjvArKlEQP-8Ohl4yhRxoU_-NDSUYt/pub))
+[![Static Badge](https://img.shields.io/badge/view%20my%20resume-black?style=for-the-badge)]([https://drive.google.com/file/d/1SNEvcM1eavZhzST1nQtJU1Y7GmTnfUvv/view?usp=drive_link](https://docs.google.com/document/d/e/2PACX-1vQKxDxt4OswOLflkwM7AKJTppeeXKGBgJrcGkiBPCH0iiqsymHjvArKlEQP-8Ohl4yhRxoU_-NDSUYt/pub)
 
 ## Personal Projects
 
