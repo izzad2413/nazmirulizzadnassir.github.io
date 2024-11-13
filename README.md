@@ -1,11 +1,10 @@
 # Greetings
 
-## About Me
-
 I’m a Data and AI enthusiast with 5 years of experience across product development, customer experience, business intelligence, and R&D. Skilled in Python, PostgreSQL, MySQL, MongoDB, TensorFlow, and Power BI, I thrive on transforming data into actionable insights. My MSc. in Business Intelligence & Analytics and background in research fuel my curiosity and analytical mindset, allowing me to solve real-world problems creatively. Passionate about data-driven innovation, I’m eager to connect with like-minded professionals and explore opportunities that make a meaningful impact.
 
 ## Lets Connect
-[![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=flat-square&logo=linkedin&labelColor=%230A66C2)](https://www.linkedin.com/in/nazmirul-izzad-nassir?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+[![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=flat-square&logo=linkedin&labelColor=%230A66C2)](https://www.linkedin.com/in/nazmirul-izzad-nassir?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Static Badge](https://img.shields.io/badge/Threads-black?style=flat-square&logo=Threads&logoColor=white&labelColor=%23000000&color=%23000000)](https://www.threads.net/@nazmirulizzadnassir)
 ![Static Badge](https://img.shields.io/badge/nazmirulizzadnassir%40gmail.com-black?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/017%20326%204080-black?style=flat-square)
 
@@ -24,7 +23,7 @@ I’m a Data and AI enthusiast with 5 years of experience across product develop
 | BI Tools | Microsoft Power BI, Tableau |
 | Spreadsheet | Microsoft Excel, Google Spreadsheet |
 
-[![Static Badge](https://img.shields.io/badge/view%20my%20resume-black?style=for-the-badge)](https://drive.google.com/file/d/1SNEvcM1eavZhzST1nQtJU1Y7GmTnfUvv/view?usp=drive_link)
+[![Static Badge](https://img.shields.io/badge/view%20my%20resume-black?style=for-the-badge)]([https://drive.google.com/file/d/1SNEvcM1eavZhzST1nQtJU1Y7GmTnfUvv/view?usp=drive_link](https://docs.google.com/document/d/e/2PACX-1vQKxDxt4OswOLflkwM7AKJTppeeXKGBgJrcGkiBPCH0iiqsymHjvArKlEQP-8Ohl4yhRxoU_-NDSUYt/pub))
 
 ## Personal Projects
 
