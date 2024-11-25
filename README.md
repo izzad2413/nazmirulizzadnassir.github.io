@@ -43,6 +43,7 @@ I’m a Data and AI enthusiast with 5 years of experience across product develop
 - Conducted thorough EDA and preprocessing, transforming categorical data for accurate modeling.
 - Developed and deployed a seamless flight price prediction application using the Django framework.
 
+<!---
 **[Visitor Experiences at Sepilok Orangutan Sanctuary: Sentiment Analysis (WORK IN PROGRESS)](https://github.com/izzad2413/nlp-sentiment-analysis-sepilok)**
 
   ![Project Design Thumbnail-modified](https://github.com/user-attachments/assets/d212530f-8549-4570-9a8a-b30e7a00749b)
@@ -65,6 +66,7 @@ I’m a Data and AI enthusiast with 5 years of experience across product develop
 - Work In Progress
 - Work In Progress
 - Work In Progress
+-->
 
 ## Publication
 
