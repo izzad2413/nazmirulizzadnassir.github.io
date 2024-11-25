@@ -47,10 +47,9 @@ I’m a Data and AI enthusiast with 5 years of experience across product develop
 
   ![Project Design Thumbnail-modified](https://github.com/user-attachments/assets/d212530f-8549-4570-9a8a-b30e7a00749b)
 
-  - Work In Progress
-  - Work In Progress
-  - Work In Progress
-
+  - Conducted sentiment analysis on 3,657 TripAdvisor reviews of the Sepilok Orangutan Sanctuary, identifying 85% positive sentiment and key visitor trends to enhance guest satisfaction and conservation efforts.
+  - Built and evaluated Random Forest, Decision Tree, and Multilayer Perceptron models using optimized parameters, with the best-performing Random Forest model deployed via Streamlit.
+    
   **[Optimizing Text Summarization with Hugging Face's Pegasus (WORK IN PROGRESS)](https://github.com/izzad2413/Text-Summarizer)**
 
   ![Project Design Thumbnail-modified](https://github.com/user-attachments/assets/462d2c90-36a4-4a24-a93f-fed04906d44d)
