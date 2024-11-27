@@ -8,22 +8,9 @@ I’m a Data and AI enthusiast with 5 years of experience across product develop
 ![Static Badge](https://img.shields.io/badge/nazmirulizzadnassir%40gmail.com-black?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/017%20326%204080-black?style=flat-square)
 
-## Technical Skills
+## View My Full Resume
 
-| Types | Abilities |
-| ---------- | ------ |
-| Programming Language | Python |
-| Databases | PostgreSQL, SQL, MongoDB |
-| Data Analysis | Pandas, NumPy, Matplotlib, Seaborn |
-| Machine Learning | Scikit-learn, TensorFlow |
-| Statistics | SciPy
-| Natural Language Processing | NLTK |
-| Deployment | Django, Streamlit |
-| Web Scraping | Playwright |
-| BI Tools | Microsoft Power BI, Tableau |
-| Spreadsheet | Microsoft Excel, Google Spreadsheet |
-
-[![Static Badge](https://img.shields.io/badge/view%20my%20cv-black?style=for-the-badge)](https://docs.google.com/document/d/e/2PACX-1vSRPJmPcsVqXHeTWjBRjN8zWxbRW9Bdqxc297ZOg8_H62M_Mt7ee29d2XBREPubX7yCGUcR3UIQ3dTz/pub)
+[![Static Badge](https://img.shields.io/badge/click%20here%20-black?style=for-the-badge)](https://docs.google.com/document/d/e/2PACX-1vSRPJmPcsVqXHeTWjBRjN8zWxbRW9Bdqxc297ZOg8_H62M_Mt7ee29d2XBREPubX7yCGUcR3UIQ3dTz/pub)
 
 ## Personal Projects
 
@@ -50,24 +37,6 @@ I’m a Data and AI enthusiast with 5 years of experience across product develop
 
   - Conducted sentiment analysis on 3,657 TripAdvisor reviews of the Sepilok Orangutan Sanctuary, identifying 85% positive sentiment and key visitor trends to enhance guest satisfaction and conservation efforts.
   - Built and evaluated Random Forest, Decision Tree, and Multilayer Perceptron models using optimized parameters, with the best-performing Random Forest model deployed via Streamlit.
-
-  <!---
-  **[Optimizing Text Summarization with Hugging Face's Pegasus (WORK IN PROGRESS)](https://github.com/izzad2413/Text-Summarizer)**
-
-  ![Project Design Thumbnail-modified](https://github.com/user-attachments/assets/462d2c90-36a4-4a24-a93f-fed04906d44d)
-  
-  - Work In Progress
-  - Work In Progress
-  - Work In Progress
-
- **[Langkawi Visitor Feedback Insights (WORK IN PROGRESS)](https://github.com/izzad2413/nlp_sentiment_lgk)**
-
-![nlp-sentiment-lgk-thumbnail](https://github.com/user-attachments/assets/34f7a5ab-9499-4454-8b18-03bd5ddbba5f)
-
-- Work In Progress
-- Work In Progress
-- Work In Progress
--->
 
 ## Publication
 
