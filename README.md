@@ -12,7 +12,9 @@ I’m a Data and AI enthusiast with 5 years of experience across product develop
 
 [![Static Badge](https://img.shields.io/badge/click%20here%20-black?style=for-the-badge)](https://docs.google.com/document/d/e/2PACX-1vSRPJmPcsVqXHeTWjBRjN8zWxbRW9Bdqxc297ZOg8_H62M_Mt7ee29d2XBREPubX7yCGUcR3UIQ3dTz/pub)
 
-## Personal Projects
+***
+
+## Real-World Data Projects
 
 **[Predicting Sustainable Tourism in Malaysia's Accommodation Sector: A Machine Learning Approach](https://github.com/izzad2413/sustainable_ota)**
 
@@ -22,6 +24,17 @@ I’m a Data and AI enthusiast with 5 years of experience across product develop
 - Scraped, preprocessed, and feature-selected OTA data from 17,866 samples, optimizing model performance.
 - Created an interactive Streamlit app for sustainability predictions, supplemented with Tableau visualizations.
 
+**[Visitor Experiences at Sepilok Orangutan Sanctuary: Sentiment Analysis](https://github.com/izzad2413/nlp-sentiment-analysis-sepilok)**
+
+  ![Project Design Thumbnail-modified](https://github.com/user-attachments/assets/d212530f-8549-4570-9a8a-b30e7a00749b)
+
+  - Conducted sentiment analysis on 3,657 TripAdvisor reviews of the Sepilok Orangutan Sanctuary, identifying 85% positive sentiment and key visitor trends to enhance guest satisfaction and conservation efforts.
+  - Built and evaluated Random Forest, Decision Tree, and Multilayer Perceptron models using optimized parameters, with the best-performing Random Forest model deployed via Streamlit.
+
+***
+
+## Deployed Solutions & Applications
+
 **[Airfare Prediction Model Deployment](https://github.com/izzad2413/django_project)**
 
 ![airfare-prediction](https://github.com/user-attachments/assets/abc9a8ce-d68a-40ef-9180-3f1be92be74d)
@@ -29,10 +42,3 @@ I’m a Data and AI enthusiast with 5 years of experience across product develop
 - Utilized logistic regression and deep learning to predict flight prices based on a comprehensive dataset from Kaggle.
 - Conducted thorough EDA and preprocessing, transforming categorical data for accurate modeling.
 - Developed and deployed a seamless flight price prediction application using the Django framework.
-
-**[Visitor Experiences at Sepilok Orangutan Sanctuary: Sentiment Analysis](https://github.com/izzad2413/nlp-sentiment-analysis-sepilok)**
-
-  ![Project Design Thumbnail-modified](https://github.com/user-attachments/assets/d212530f-8549-4570-9a8a-b30e7a00749b)
-
-  - Conducted sentiment analysis on 3,657 TripAdvisor reviews of the Sepilok Orangutan Sanctuary, identifying 85% positive sentiment and key visitor trends to enhance guest satisfaction and conservation efforts.
-  - Built and evaluated Random Forest, Decision Tree, and Multilayer Perceptron models using optimized parameters, with the best-performing Random Forest model deployed via Streamlit.
