@@ -18,6 +18,10 @@ I’m a Data and AI enthusiast with 5 years of experience across product develop
 
 ## Real-World Data Projects
 
+
+***
+
+
 **[Predicting Sustainable Tourism in Malaysia's Accommodation Sector: A Machine Learning Approach](https://github.com/izzad2413/sustainable_ota)**
 
 ![malaysia_sustainable_ota-modified_v2](https://github.com/user-attachments/assets/e5c83fec-b504-4f09-8627-f9fb4c100cab)
@@ -39,6 +43,10 @@ I’m a Data and AI enthusiast with 5 years of experience across product develop
 
 
 ## Deployed Solutions & Applications
+
+
+***
+
 
 **[Airfare Prediction Model Deployment](https://github.com/izzad2413/django_project)**
 
